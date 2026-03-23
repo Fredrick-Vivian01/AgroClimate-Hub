@@ -6,22 +6,22 @@ AgroClimate Hub
   Smallholder farmers in Ibadan, Nigeria face unpredictable climate patterns like rainfall pattern changes, shifting harmattan making it difficult to decide when to plant.
 
 3. Solution Overview
-WhatsApp-based system
+WhatsApp-based system, 
 Data collection + recommendations
 
 4. How It Works
 
-Farmer receives daily prompt
-Farmer submits weather data
-Data is stored (Google Sheets/Airtable)
-System processes data
-Farmer receives advice
+Farmer receives daily prompt, 
+Farmer submits weather data, 
+Data is stored (Google Sheets/Airtable),
+System processes data,
+Farmer receives advice.
 
 5. MVP Features
-Daily weather reporting
-Data storage
-Rule-based recommendations
-Simple user interface
+Daily weather reporting, 
+Data storage, 
+Rule-based recommendations, 
+Simple user interface.
 
 6. Tech Stack
 Example
@@ -53,7 +53,7 @@ THEN Recommendation = Delay planting
 . ![1002081054](https://github.com/user-attachments/assets/1c78886f-bb35-4953-a3b9-f95e79c7dfa7)
 
 
-10. Future Improvements
+10. Future Improvements:
 AI predictions
 Pest alerts
 SMS integration
