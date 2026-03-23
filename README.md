@@ -21,18 +21,21 @@ System processes data,
 Farmer receives advice.
 
 5. MVP Features
+   
 Daily weather reporting, 
 Data storage, 
 Rule-based recommendations, 
 Simple user interface.
 
 6. Tech Stack
+
 Example
 Interface: WhatsApp / Glide
 Database: Google Sheets / Airtable
 Automation: Twilo, Whatsapp API
 
 7. Data Structure
+
 FARMERS
 Name
 Location
@@ -57,6 +60,7 @@ THEN Recommendation = Delay planting
 
 
 10. Future Improvements:
+
 AI predictions
 Pest alerts
 SMS integration
