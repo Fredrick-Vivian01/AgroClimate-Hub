@@ -1,11 +1,14 @@
 # AgroClimate-Hub
 1. Project Title
+   
 AgroClimate Hub
 
 2. Problem Statement
+
   Smallholder farmers in Ibadan, Nigeria face unpredictable climate patterns like rainfall pattern changes, shifting harmattan making it difficult to decide when to plant.
 
 3. Solution Overview
+
 WhatsApp-based system, 
 Data collection + recommendations
 
